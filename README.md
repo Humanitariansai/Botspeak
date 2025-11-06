@@ -1,6 +1,7 @@
 
 # Botspeak: A Framework for AI Fluency
 
+
 **Imagine a world where people work with bots.** That is increasingly the world we live in. Companies have already started hiring based not just on your skills but how your skills complement AI.
 
 Botspeak is a framework for effective human-AI collaboration in today's rapidly evolving landscape. As AI systems become more powerful, the gap between capability and usability continues to widen. Organizations adopt AI without clear strategies while individuals struggle with systems they don't fully understand.
